@@ -60,6 +60,7 @@ assert(
 ## --seed-contents--
 
 ```jsx
+//NOTE: React and ReactDOM have already been imported for you behind the scenes.
 // Change code below this line
 ```
 
